@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**jevonvalerian/jevonvalerian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
+I am Hieronimus Jevon Valerian. I am a sophomore student majoring in Actuarial at the Bandung Institute of Technology who is very motivated to learn new things. I have an interest in Actuary and Data Science and now, I am in the process of learning to always improve myself in both fields.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
