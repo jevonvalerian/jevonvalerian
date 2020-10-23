@@ -3,7 +3,7 @@
 - Name : Hieronimus Jevon Valerian
 - NIM  : 10819017
 
-I am Hieronimus Jevon Valerian. I am a sophomore student majoring in Actuarial at the Bandung Institute of Technology who is very motivated to learn new things. I have an interest in Actuary and Data Science and now, I am in the process of learning to always improve myself in both fields.
+I am Hieronimus Jevon Valerian. I am a sophomore student majoring in Actuarial at the Bandung Institute of Technology who is very motivated to learn new things. I have an interest in Actuary and Data Science field and now, I am in the process of learning to always improve myself in both fields.
 
 <!--
 - 🔭 I’m currently working on ...
