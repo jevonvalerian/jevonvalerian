@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hieronimus Jevon Valerian. I am a sophomore student majoring in Actuarial at the Bandung Institute of Technology who is very motivated to learn new things. I have an interest in Actuary and Data Science field and now, I am in the process of learning to always improve myself in both fields.
+I am Hieronimus Jevon Valerian. I am a third-year student majoring in Actuarial at the Bandung Institute of Technology who is very motivated to learn new things. I have an interest in Actuary and Data Science field and now, I am in the process of learning to always improve myself in both fields.
 
 I am the type of person who likes to discuss, exchange opinions, and absorb knowledge from great people based on my high enthusiasm for learning. I have a deep love for big data, especially its implementation in the finance and actuarial fields
 
